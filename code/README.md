@@ -27,8 +27,7 @@ can be obtained from  [TextFooler](https://github.com/jind11/TextFooler)
 
 
 ## File Description
-- beamAttack_classification.py: Attack the victim model for text classification with beamAttack.
-- beamAttack_nli.py: Attack the victim model for textual entailment with beamAttack.
+- beamAttack.py: Attack the victim model for text classification with beamAttack.
 
 ## run
 python beamattack.py
