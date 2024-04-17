@@ -1,4 +1,4 @@
-# beamattack_PAKDD2023
+# beamattack@PAKDD2023
 
 
 ## Requirements
